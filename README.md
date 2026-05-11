@@ -1,29 +1,19 @@
-### Hi, I'm Miketchly-Zar Jean-Francois 👋
+<h1 align="center">Hi 👋, I'm Miketchly-zar Jean-Francois</h1>
+<h3 align="center">Software engineer in the making — self-taught, project-driven, and obsessed with building things that work.</h3>
 
-Software engineer in the making — self-taught, project-driven, and obsessed with building things that work.
+- 🔭 I’m currently working on **Building end-to-end projects that solve real problems**
 
-I'm currently focused on sharpening my fundamentals across the stack while shipping real projects from idea to deployment. I care about clean code, thoughtful design, and learning from engineers better than me.
+- 🌱 I’m currently learning **React, Tailwind**
 
-**🚀 What I'm working on**
-- Building end-to-end projects that solve real problems
-- Deepening my fundamentals in JAVA
-- Writing about what I learn at [your blog link]
+- 💬 Ask me about **Python, JavaScript, TypeScript, JAVA**
 
-**🛠️ Tech I work with**
-- **Languages:** [e.g., Python, JavaScript, TypeScript]
-- **Frontend:** [e.g., React, Tailwind]
-- **Backend:** [e.g., Node.js, FastAPI]
-- **Tools:** Git, [database, deployment platforms, etc.]
+- 📫 How to reach me **jmiketch508@gmail.com**
 
-**📌 Featured projects**
-- 🔗 **[Project Name]** — [One-line description of what it does and the impact]
-- 🔗 **[Project Name]** — [One-line description]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/miketchly-zar jean-francois" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miketchly-zar jean-francois" height="30" width="40" /></a>
+</p>
 
-**📫 Let's connect**
-- 🌐 Portfolio: [link]
-- ✍️ Blog: [link]
-- 💼 LinkedIn: www.linkedin.com/in/miketchly-zar-jean-francois-6bbb19280
-- 📧 Email: jmiketch508@gmail.com
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
----
-*Open to internships, junior roles, and collaborations. Always building, always learning.*
